@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p> My name is Angel Hillery. I'm from Baltimore, Maryland. I went to Parkville Highschool. I like to read, cook, and play badminton.
+Originally, I planned to be a Computer Science major, but switched to Software Engineering because I liked it better
+</p>
+
+<img src = "image.jpg">
+
+<a href "https://www.se.rit.edu/~swen-101/00/index.html" </a>
+
+<ul>
+    <li>Some coding tips</li>
+    <li>Presentation strategies</li>
+    <li>Time management with group projects</li>
+</ul>
+
+
+</body>
+</html>
